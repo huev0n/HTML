@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Título</th>
+        <th>Autor</th>
+        <th>Año de publicación</th>
+        <th>Enlace a Amazon</th>
+      </tr>
+      <tr>
+        <td>Nunca</td>
+        <td>Ken Follet</td>
+        <td>2021</td>
+        <td><a href="https://www.amazon.es/Nunca-novela-Follett-pilares-Tierra/dp/8401027055/">Enlace a Nunca - Ken Follet en Amazon</a></td>
+      </tr>
+      <tr>
+        <td>Reina Roja</td>
+        <td>Juan Gómez-Jurado</td>
+        <td>2018</td>
+        <td><a href="https://www.amazon.es/Reina-roja-Trama-Juan-Gómez-Jurado/dp/8466664416//">Enlace a Reina Roja - Juan-Gómez-Jurado en Amazon</a></td>
+      </tr>
+      <tr>
+        <td>El Veredicto</td>
+        <td>Michael Conelly</td>
+        <td>2022</td>
+        <td><a href="https://www.amazon.es/El-veredicto-AdN-Alianza-Novelas-ebook/dp/B09X62291J/">Enlace a El Veredicto, de Michael Conelly en Amazon</a></td>
+      </tr>
+    </table>
+  </body>
+</html>
